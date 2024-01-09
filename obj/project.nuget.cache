@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xXL8pJ82FY/AflOBpq8/oeYC4X9PvG1GRqVyfVfqKsdFI1bXLX1aAMQZ5r/Z3KEPdgLdF7DNeuWyKn5sg8dJdw==",
+  "success": true,
+  "projectFilePath": "D:\\mphasis Simplilearn\\Phase3\\Day3\\ConProOne\\ConProOne\\ConProOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nehash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nehash\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nehash\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nehash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nehash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Nehash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
